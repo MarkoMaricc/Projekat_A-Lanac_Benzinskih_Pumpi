@@ -1,0 +1,710 @@
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe.config
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.pdb
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Properties.Resources.resources
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.pdb
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\netstandard.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe.config
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazR.resources
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CopyComplete
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazP.resources
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazStavki.resources
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajStavku.resources
+C:\Users\HP\Desktop\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.IzmjenaProizvoda.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe.config
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.pdb
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\netstandard.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe.config
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajStavku.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.IzmjenaProizvoda.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazP.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazR.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazStavki.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Properties.Resources.resources
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CopyComplete
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe
+C:\Users\HP\Desktop\cetvrta godina\otpad iz baza\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.pdb
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe.config
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.pdb
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\netstandard.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe.config
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajStavku.resources
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.IzmjenaProizvoda.resources
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazP.resources
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazR.resources
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazStavki.resources
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Properties.Resources.resources
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CopyComplete
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe
+C:\Users\HP\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.pdb
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe.config
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.pdb
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Annotations.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Ubiety.Dns.Core.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Zstandard.Net.dll
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.pdb
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.AssemblyReference.cache
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.SuggestedBindingRedirects.cache
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajStavku.resources
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.IzmjenaProizvoda.resources
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazP.resources
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazR.resources
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazStavki.resources
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Properties.Resources.resources
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.GenerateResource.cache
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CoreCompileInputs.cache
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CopyComplete
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe
+d:\Users\Korisnik\Desktop\11140_18_Marko_Maric-Lanac_benzinskih_pumpi\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.pdb
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe.config
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.exe
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\ProjekatBaze.pdb
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.ComponentModel.Annotations.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Ubiety.Dns.Core.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Zstandard.Net.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.pdb
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Google.Protobuf.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Compression.LZ4.Streams.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\K4os.Hash.xxHash.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Bcl.HashCode.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Options.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Microsoft.Extensions.Primitives.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\Renci.SshNet.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Buffers.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Collections.Immutable.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Memory.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Numerics.Vectors.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.AssemblyReference.cache
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.SuggestedBindingRedirects.cache
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajStavku.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Form1.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazP.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazR.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazStavki.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Properties.Resources.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.GenerateResource.cache
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CoreCompileInputs.cache
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.csproj.CopyComplete
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.exe
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.pdb
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazRadnika.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazAparataZaGorivo.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.CodePages.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\System.Text.Encoding.CodePages.xml
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajAparatZaGorivo.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajRadnika.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazBenzinske.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajBenzinske.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazKase.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajKasu.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.PrikazSkladista.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajSkladiste.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajRacun.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.DodajProizvod.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\bin\Debug\en\ProjekatBaze.resources.dll
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\ProjekatBaze.Forma1.en.resources
+d:\Users\Korisnik\Desktop\hci prvi projekat\ProjekatBaze\ProjekatBaze\obj\Debug\en\ProjekatBaze.resources.dll

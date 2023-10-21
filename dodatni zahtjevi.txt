@@ -1,0 +1,4 @@
+ + Korisničko uputstvo(PDF fajl u kojem je opisan način rada sa aplikacijom)
++ Internacionalizacija(Dva jezika engleski i srpski,rađena na nivou formi,a nije na nivou podataka iz baze)
+
+prije pokretanja aplikacije obavezno izvršiti i skriptu za prebacivanje generisane seme na utf8
